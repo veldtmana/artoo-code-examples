@@ -23,4 +23,5 @@ work do
 
   on button, :push => proc {  traffic_light.change
                               buzzer.beep(0.1) }
+
 end

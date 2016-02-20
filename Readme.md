@@ -15,7 +15,6 @@ Run the following command from the project root folder to run the traffic light 
 
 ```
 $ artoo start examples/traffic_light_robot.rb
-
 ```
 I will be adding documentation for the example (as well as more examples) soon.
 
@@ -27,7 +26,6 @@ Once you are sure you know how to run an artoo script, clone this repo and run t
 
 ```
 $ bundle install
-
 ```
 
 ## Tests
