@@ -1,10 +1,12 @@
-## Traffic light
+## Traffic light robot
 
 This example illustrates the following:
 
 + How to define your own hardware driver - in this case a buzzer
 + Defining a class that implements a state machine to clean up the code (using the state machine gem)
 + Adding unit tests for your class
+
+![Breadboard diagram](traffic_light_robot_bb.png)
 
 ### Defining your own driver
 
