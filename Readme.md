@@ -16,13 +16,13 @@ Run the following command from the project root folder to run the traffic light 
 ```
 $ artoo start examples/traffic_light_robot.rb
 ```
-You will also find documentation for the examples like [traffic_light_robot_readme.md](examples/docs/traffic_light_robot_readme.md)
+There is also documentation available in the `examples/docs` folder, in this case look at   [traffic_light_robot_readme.md](examples/docs/traffic_light_robot_readme.md) which includes breadboard and circuit diagrams as well.
 
 ## Installation
 
 First follow the Artoo documentation's [setup instructions](http://artoo.io/documentation/platforms/arduino/) that explain how to connect to an Arduino board and upload the Firmata protocol.
 
-Once you are sure you know how to run an artoo script, clone this repo and run the following command from the project root folder to install the gems required to run the examples
+Once you are sure you know how to run an Artoo script, clone this repo and run the following command from the project root folder to install the gems required to run the examples
 
 ```
 $ bundle install
