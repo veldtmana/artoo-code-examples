@@ -83,7 +83,8 @@ DEPENDENCIES
   pry
   require_all
   rspec
+  rspec-mocks
   state_machine
 
 BUNDLED WITH
-   1.10.6
+   1.12.5

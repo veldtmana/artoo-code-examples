@@ -8,4 +8,5 @@ gem 'artoo-arduino'
 gem 'state_machine'
 
 gem 'rspec'
+gem 'rspec-mocks'
 gem 'pry'
